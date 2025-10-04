@@ -23,7 +23,7 @@ The study introduces a **1–5 scaling normalization scheme** and a **five-level
 - Evaluation metrics: Accuracy, Precision, Recall, F1-Score, and AUC
 - Visualization of correlations, confusion matrix, and ROC curve
 
-## 📊 Model Performance
+## Model Performance
 
 | Metric | Baseline Model | Proposed Scaled Model |
 |:--|:--:|:--:|
@@ -35,7 +35,7 @@ The study introduces a **1–5 scaling normalization scheme** and a **five-level
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 1. **Data Preprocessing:**  
    Missing values imputed using median/mode strategies.  
@@ -49,8 +49,4 @@ The study introduces a **1–5 scaling normalization scheme** and a **five-level
 
 4. **Evaluation:**  
    Performance assessed using confusion matrix, ROC curve, and standard classification metrics.
-
----
-
-## 📂 Repository Structure
 
