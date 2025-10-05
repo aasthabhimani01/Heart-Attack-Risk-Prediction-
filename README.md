@@ -25,13 +25,13 @@ The study introduces a **1–5 scaling normalization scheme** and a **five-level
 
 ## Model Performance
 
-| Metric | Baseline Model | Proposed Scaled Model |
-|:--|:--:|:--:|
-| Accuracy | 76.5 % | **80.1 %** |
-| Precision | 74.2 % | **78.3 %** |
-| Recall | 82.0 % | **88.6 %** |
-| F1-Score | 77.9 % | **83.1 %** |
-| AUC | 77.5 % | **79.1 %** |
+| Metric | Proposed Scaled Model |
+|:--|:--:|
+| Accuracy | **80.1 %** |
+| Precision | **78.3 %** |
+| Recall | **88.6 %** |
+| F1-Score | **83.1 %** |
+| AUC | **79.1 %** |
 
 ---
 
